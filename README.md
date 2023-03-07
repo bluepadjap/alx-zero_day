@@ -1,1 +1,1 @@
-Create a folder
+Manipulating and learning Git
